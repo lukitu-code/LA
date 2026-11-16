@@ -1,0 +1,19 @@
+{
+    "modpack": "LA",
+    "minecraftVersion": "1.21.1",
+    "forgeVersion": "47.2.20",
+    "latestVersion": "1.0.0",
+    "updates": [
+        {
+            "version": "1.0.0",
+            "name": "Actualización v1.0.0",
+            "releaseDate": "2026-11-16",
+            "url": "https://github.com/lukitu-code/LA/releases/download/v1.0.0/update-1.0.0.zip",
+            "sha256": "2ec7042f16e2c34154422b49fc9396c5292e759bf270178963db04650ff80f75",
+            "size": 484016639,
+            "changelog": [
+                "Actualización v1.0.0"
+            ]
+        }
+    ]
+}
